@@ -1,0 +1,4 @@
+- 👋 ola mue nome é @marquinhos4
+-   👀  meu emeil de contato e marcosrodrig2000@gmail.com
+- 🌱 estou interessado em novas linguas de programação
+- 💞️ estou recentemente aprendendo liguaguens de programação com o javaScrip e Scrasch
